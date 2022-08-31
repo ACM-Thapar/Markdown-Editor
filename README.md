@@ -15,7 +15,7 @@
 
 ![GitHub issues](https://img.shields.io/github/issues/ACM-Thapar/Markdown-Editor?style=flat-square&token=ANOHNVSU5PPKJXFZBZ5UXJ27BBNTO)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-![GitHub repo size](https://img.shields.io/github/repo-size/ACM-Thapar/CMarkdown-Editor)
+![GitHub repo size](https://img.shields.io/github/repo-size/ACM-Thapar/Markdown-Editor)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
