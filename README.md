@@ -1,6 +1,5 @@
 <div align = "center">
 
-
 <img height=200px src= "https://raw.githubusercontent.com/ACM-Thapar/CS_COURSE_GUIDE/master/acm%20logo.png">
 
 
@@ -57,3 +56,9 @@ The contributing instructions are written in the [CONTRIBUTING.md file](https://
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
