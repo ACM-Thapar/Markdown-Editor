@@ -46,7 +46,8 @@
       "profile": "https://portfolio-jogesh.netlify.app/",
       "contributions": [
         "maintenance",
-        "doc"
+        "doc",
+        "code"
       ]
     }
   ],
