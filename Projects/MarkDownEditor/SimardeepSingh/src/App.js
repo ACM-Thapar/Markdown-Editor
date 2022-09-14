@@ -6,12 +6,20 @@ import { motion } from "framer-motion"
 function App() {
   const [lefttext,setLeftText]=useState('Mark Down Editor');
   const [loading,setLoading]=useState(false);
+  const [rotatemsg,setRotateMsg]=useState(false);
 
   useEffect(()=>{
       setLoading(true);
       setTimeout(()=>{
         setLoading(false);
       },5000)
+  },[])
+
+   useEffect(()=>{
+      setRotateMsg(true);
+      setTimeout(()=>{
+        setRotateMsg(false);
+      },10000)
   },[])
 
 
@@ -25,6 +33,11 @@ function App() {
         loading?<>
         <motion.div animate={{scale:[1,1.4,1]}} initial={{scale:1}} transition={{type:'spring',duration:2,repeat:Infinity}} className='loaderdiv'><img className='mimage2' alt="mimage" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png"/><img className='acmimg' alt="acm" src={acm}/></motion.div></>:
       <>
+      {
+        rotatemsg?<>
+        <div className='loaderdiv'><img className='mimage3' alt="mimage" src="https://www.accede-web.com/wp-content/uploads/2021/01/rotate-screen-680x521.png"/></div>
+        </>
+        :<>
       <div style={{display:'flex',justifyContent:'center',marginTop:5}}><img className='mimage' alt="mimage" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png"/><h1 className='markdownheader'>&nbsp;&nbsp;MarkDown Editor</h1></div>
       <div className='flexer'>
         <div className='leftmaindiv' style={{display:'flex',flexDirection:'column'}}>
@@ -45,6 +58,8 @@ function App() {
       <br/>
       <footer><h3>Made By Simardeep Singh Mudhar &copy;</h3></footer>
       <br/>
+      </>
+        }
       </>
       }
     </div>
