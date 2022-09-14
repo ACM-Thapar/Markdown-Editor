@@ -62,7 +62,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/JhndaCoder"><img src="https://avatars.githubusercontent.com/u/96512236?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Amit Goyal</b></sub></a><br /><a href="https://github.com/ACM Thapar/Markdown Editor/commits?author=JhndaCoder" title="Code">💻</a> <a href="https://github.com/ACM Thapar/Markdown Editor/commits?author=JhndaCoder" title="Documentation">📖</a></td>
+      <td align="center"><a href="https://github.com/JhndaCoder"><img src="https://avatars.githubusercontent.com/u/96512236?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Amit Goyal</b></sub></a><br /><a href="https://github.com/ACM Thapar/Markdown Editor/commits?author=JhndaCoder" title="Code">💻</a> <a href="https://github.com/ACM Thapar/Markdown Editor/commits?author=JhndaCoder" title="Documentation">📖</a> <a href="#maintenance-JhndaCoder" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
 </table>
