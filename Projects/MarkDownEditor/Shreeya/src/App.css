@@ -1,0 +1,127 @@
+
+.App {
+  text-align: center;  
+  margin:0px;
+  padding:0px;
+  margin-left:0px;
+  padding-left:0px;
+  padding-top:0px;
+  left:0px;
+}
+
+#light {
+  background-color: antiquewhite;
+  border: 15px solid  antiquewhite;
+}
+
+#dark{
+  background-color: rgb(35, 0, 47);
+  border: 15px solid rgb(35, 0, 47);
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  min-height: 150vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.switch{
+  width: 98vw;
+  height: 65px;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  
+} 
+
+.switch label{
+  margin-right: 10px;
+  align-items: center;
+}
+
+#light .switch label{
+  color: black;
+}
+
+#dark .switch label{
+  color: antiquewhite;
+}
+
+.row::after{
+  content: "";
+  clear: both;
+  display: table;
+}
+.row{
+  max-height: max-content;
+  justify-content: center;
+  align-items: center;
+}
+.container{
+  display: inline-block;
+      background-size: cover;
+      font-family: 'Trebuchet MS', sans-serif; 
+}
+#light .container{
+  background:antiquewhite;
+  color: black;
+}
+#dark .container{
+  background: rgb(35, 0, 47);
+  color: white;
+}
+.typed-out{
+  overflow: hidden;
+      border-right: .15em solid hsl(294, 27%, 42%) ;
+      white-space: nowrap;
+      animation: 
+      typing 1.2s steps(20, end) forwards;
+      font-size: 1.8rem;
+      width: 0;
+      margin-bottom: 1px;
+      animation: 
+      typing 1.2s steps(20, end) forwards,
+      blink .9s infinite;
+}
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+@keyframes blink {
+  from { border-color: transparent }
+  to { border-color: hsl(294, 28%, 34%); }
+}
+
+.first{
+  padding: 0;
+}
