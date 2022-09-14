@@ -17,7 +17,7 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ACM-Thapar/Markdown-Editor)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ---
@@ -65,6 +65,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/JhndaCoder"><img src="https://avatars.githubusercontent.com/u/96512236?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Amit Goyal</b></sub></a><br /><a href="https://github.com/ACM Thapar/Markdown Editor/commits?author=JhndaCoder" title="Code">💻</a> <a href="https://github.com/ACM Thapar/Markdown Editor/commits?author=JhndaCoder" title="Documentation">📖</a> <a href="#maintenance-JhndaCoder" title="Maintenance">🚧</a></td>
       <td align="center"><a href="https://github.com/Shaikh-Umar-Farooq"><img src="https://avatars.githubusercontent.com/u/99824776?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shaikh-Umar-Farooq</b></sub></a><br /><a href="https://github.com/ACM Thapar/Markdown Editor/commits?author=Shaikh-Umar-Farooq" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/SkSay777"><img src="https://avatars.githubusercontent.com/u/100615807?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sk Sayan</b></sub></a><br /><a href="https://github.com/ACM Thapar/Markdown Editor/commits?author=SkSay777" title="Code">💻</a></td>
+      <td align="center"><a href="https://portfolio-jogesh.netlify.app/"><img src="https://avatars.githubusercontent.com/u/88982643?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jogesh Gupta</b></sub></a><br /><a href="#maintenance-jogeshgupta963" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
 </table>
