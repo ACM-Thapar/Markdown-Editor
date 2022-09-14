@@ -17,7 +17,7 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ACM-Thapar/Markdown-Editor)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ---
@@ -68,6 +68,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://portfolio-jogesh.netlify.app/"><img src="https://avatars.githubusercontent.com/u/88982643?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jogesh Gupta</b></sub></a><br /><a href="#maintenance-jogeshgupta963" title="Maintenance">🚧</a> <a href="https://github.com/ACM Thapar/Markdown Editor/commits?author=jogeshgupta963" title="Documentation">📖</a> <a href="https://github.com/ACM Thapar/Markdown Editor/commits?author=jogeshgupta963" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/SimardeepSingh1450"><img src="https://avatars.githubusercontent.com/u/92221517?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SimardeepSingh1450</b></sub></a><br /><a href="https://github.com/ACM Thapar/Markdown Editor/commits?author=SimardeepSingh1450" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/anupriyalathey"><img src="https://avatars.githubusercontent.com/u/90963726?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anupriya Lathey</b></sub></a><br /><a href="https://github.com/ACM Thapar/Markdown Editor/commits?author=anupriyalathey" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/k-kavya-28"><img src="https://avatars.githubusercontent.com/u/97555447?v=4?s=100" width="100px;" alt=""/><br /><sub><b>k-kavya-28</b></sub></a><br /><a href="https://github.com/ACM Thapar/Markdown Editor/commits?author=k-kavya-28" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
