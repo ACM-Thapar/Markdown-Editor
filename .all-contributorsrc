@@ -7,7 +7,7 @@
     "README.md"
   ],
   "imageSize": 100,
-  "commit": true,
+  "commit": false,
   "commitConvention": "none",
   "contributors": [
     {
@@ -73,6 +73,15 @@
       "name": "k-kavya-28",
       "avatar_url": "https://avatars.githubusercontent.com/u/97555447?v=4",
       "profile": "https://github.com/k-kavya-28",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "shreeyachatzz",
+      "name": "Shreeya Chatterji",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91721717?v=4",
+      "profile": "https://github.com/shreeyachatzz",
       "contributions": [
         "code"
       ]
